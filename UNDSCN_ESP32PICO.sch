@@ -1,0 +1,33 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ESP32-PICO-D4:ESP32-PICO-D4 U?
+U 1 1 614B5C18
+P 3900 3200
+AR Path="/614B5C18" Ref="U?"  Part="1" 
+AR Path="/614B43C4/614B5C18" Ref="U?"  Part="1" 
+F 0 "U?" H 3900 5067 50  0000 C CNN
+F 1 "ESP32-PICO-D4" H 3900 4976 50  0000 C CNN
+F 2 "PQFN50P700X700X104-49N" H 3900 3200 50  0001 L BNN
+F 3 "" H 3900 3200 50  0001 L BNN
+F 4 "v1.9" H 3900 3200 50  0001 L BNN "PARTREV"
+F 5 "IPC 7351B" H 3900 3200 50  0001 L BNN "STANDARD"
+F 6 "1.04 mm" H 3900 3200 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F 7 "Espressif Systems" H 3900 3200 50  0001 L BNN "MANUFACTURER"
+	1    3900 3200
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name VREG)(type KiCad)(uri C:/Users/micronaut/Desktop/SeniorDes_PCB/ZLDO1117G33TA)(options "")(descr ""))
+  (lib (name ESP32)(type KiCad)(uri C:/Users/micronaut/Desktop/ESP32-PICO-D4)(options "")(descr ""))
+  (lib (name USB/UART)(type KiCad)(uri C:/Users/micronaut/Desktop/SeniorDes_PCB/cp2103lib)(options "")(descr ""))
+)
